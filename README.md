@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm codekennML</h1>
-<h3 align="center">A Python developer passionate about Machine Learning, DevOps & Cloud Computing frontend developer from India</h3>
+<h3 align="center">A Python developer passionate about Machine Learning, DevOps & Cloud Computing frontend developer from Lagos, Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codekennml&label=Profile%20views&color=0e75b6&style=flat" alt="codekennml" /> </p>
 
