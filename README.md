@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Big data Technologies & CI/CD**
 
-- 👨‍💻 All of my projects are available at [https://github.com/codekennML/codekennML/](https://github.com/codekennML/codekennML/)
+- 👨‍💻 All of my projects are available at [https://github.com/codekennML](https://github.com/codekennML)
 
 - 💬 Ask me about **Python OOP, Pandas & Seaborn**
 
