@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm codekennML</h1>
-<h3 align="center">A Python developer passionate about Machine Learning, DevOps & Cloud Computing  from Lagos, Nigeria</h3>
+<h3 align="center">Python & Javascript developer passionate about Frontend Development, Machine Learning & Cloud Computing  from Lagos, Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codekennml&label=Profile%20views&color=0e75b6&style=flat" alt="codekennml" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/codekennML](https://github.com/codekennML)
 
-- 💬 Ask me about **Python OOP, Pandas & Seaborn**
+- 💬 Ask me about **Python,Javascript, Reactjs and Tailwind**
 
 - 📫 How to reach me **codekennml@gmail.com**
 
