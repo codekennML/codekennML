@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm codekennML</h1>
 <h3 align="center">Python & Javascript developer passionate about Frontend Development, Machine Learning & Cloud Computing  from Lagos, Nigeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codekennml&label=Profile%20views&color=0e75b6&style=flat" alt="codekennml" /> </p>
-
 - 🌱 I’m currently learning **Tensorflow & Kubernetes**
 
 - 🤝 I’m looking for help with **Big data Technologies & CI/CD**
