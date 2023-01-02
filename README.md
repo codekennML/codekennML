@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AWS & Google Cloud**
 
-- 🤝 I’m looking for help with **Big data Technologies & CI/CD**
+- 🤝 I’m looking for help with **CI/CD**
 
 - 👨‍💻 All of my projects are available at [https://github.com/codekennML](https://github.com/codekennML)
 
