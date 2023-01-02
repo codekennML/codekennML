@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm codekennML</h1>
 <h3 align="center">Python & Javascript developer passionate about Frontend Development, Machine Learning & Cloud Computing  from Lagos, Nigeria</h3>
 
-- 🌱 I’m currently learning **Tensorflow & Kubernetes**
+- 🌱 I’m currently learning **AWS & Google Cloud**
 
 - 🤝 I’m looking for help with **Big data Technologies & CI/CD**
 
 - 👨‍💻 All of my projects are available at [https://github.com/codekennML](https://github.com/codekennML)
 
-- 💬 Ask me about **Python,Javascript, Reactjs and Tailwind**
+- 💬 Ask me about **MERN(MONGO, EXPRESS, REACT & NODE)**
 
 - 📫 How to reach me **codekennml@gmail.com**
 
