@@ -41,7 +41,7 @@ I’m a passionate Fullstack Developer with 4+ years of hands-on experience work
 ### Frontend
 - **Languages**: TypeScript, JavaScript, HTML5, CSS3
 - **Libraries/Frameworks**: React, Redux Toolkit, Next.js, Tailwind CSS, Expo- React Native
-- **Testing**: Jest, React Testing Library
+- **Testing**: Jest, Vitest
 
 ### Backend
 - **Languages**: Node.js, Python
