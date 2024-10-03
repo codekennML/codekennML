@@ -18,7 +18,7 @@ Exploring Kubernetes (K8s) for container orchestration and Kafka for distributed
 ---
 
 ## 💼 Professional Summary
-I’m a passionate Fullstack Developer with 4+ years of hands-on experience working across **frontend, backend, and cloud infrastructure**. I’m deeply committed to designing, developing, and deploying robust, scalable applications using the MERN stack and microservices architectures. Currently seeking senior engineering roles where I can leverage my experience in **NodeJS, React/React-Native**, and **cloud-native solutions** to help scale dynamic, modern applications.
+I’m a passionate Fullstack Developer with 4+ years of hands-on experience working across **frontend, backend, and cloud infrastructure**. I’m deeply committed to designing, developing, and deploying robust, scalable applications using the MERN stack and microservices architectures. Currently seeking Mid-level to senior engineering roles where I can leverage my experience in **NodeJS, React/React-Native**, and **cloud-native solutions** to help scale dynamic, modern applications.
 
 ### Key Achievements:
 - **Developed** highly interactive web applications using **React, Node.js, and TypeScript** that serve thousands of active users daily.
